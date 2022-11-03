@@ -1,0 +1,3 @@
+1. Run the Step-response files for Gaussian and Periodic network cases individually
+(note that you may have to create results directories to fit the designated saving locations)
+2. Run each of the plotting scripts to generate simialar plots to the ones in the manuscrip
