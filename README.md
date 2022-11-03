@@ -9,7 +9,7 @@ How to run:
 
 2. Within each folder there is a specific readme file with instructions of how to run
 
-Dependencies:
+Dependencies needed:
 1. Pandas
 2. Seaborn
 3. Brian2
