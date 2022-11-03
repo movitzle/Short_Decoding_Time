@@ -9,8 +9,6 @@ How to run:
 
 2. Within each folder there is a specific readme file with instructions of how to run
 
-3. Note that the scripts only creates individual plots, the composite plots in the manuscript were manually put together using the eps files.
-
 Dependencies:
 1. Pandas
 2. Seaborn
