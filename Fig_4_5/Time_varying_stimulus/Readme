@@ -1,0 +1,4 @@
+1. Run the Time_varying_stimulus file to generate a continously varying stimulus trajectory
+2. Time_varying_stim_xxx files for Gaussian and Periodic network cases individually
+(note that you may have to create results directories to fit the designated saving locations)
+3. Run each of the plotting scripts to generate simialar plots to the ones in the manuscrip
