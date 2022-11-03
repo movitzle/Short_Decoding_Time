@@ -17,3 +17,4 @@ Dependencies:
 3. Brian2
 4. Scipy
 5. Numpy
+6. Matplotlib
