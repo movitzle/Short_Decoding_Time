@@ -1,5 +1,5 @@
 # Short_Decoding_Time
-Code for "Are single-peaked tuning curves tuned for speed rather than accuracy?"
+Code for "Are single-peaked tuning curves tuned for speed rather than accuracy?", eLife (2023)
 
 Code tested on MATLAB 2018 and jupyter notebook.
 
